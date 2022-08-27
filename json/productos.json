@@ -1,0 +1,112 @@
+[{
+    "id": 1,
+    "tipo": "Microfono",
+    "nombre": "Micrófono Behringer C-1 - 32",
+    "precio": 32000,
+    "foto": "../media/products/Micrófono Behringer C-1 - 32.jpg"
+}, {
+    "id": 2,
+    "tipo": "Microfono",
+    "nombre": "Micrófono Samson C01 -38",
+    "precio": 38000,
+    "foto": "../media/products/Micrófono Samson C01 -38.jpg"
+}, {
+    "id": 3,
+    "tipo": "Microfono",
+    "nombre": "Micrófono Shure SM - 200Batik",
+    "precio": 75000,
+    "foto": "../media/products/Micrófono Shure SM - 200.jpg"
+}, {
+    "id": 4,
+    "tipo": "Interface de audio",
+    "nombre": "Interface de audio Behringer - 35",
+    "precio": 35000,
+    "foto": "../media/products/Interface de audio Behringer - 35.jpg"
+}, {
+    "id": 5,
+    "tipo": "Interface de audio",
+    "nombre": "Interface de audio Focusrite - 122",
+    "precio": 45000,
+    "foto": "../media/products/Interface de audio Focusrite - 122.jpg"
+}, {
+    "id": 6,
+    "tipo": "Interface de audio",
+    "nombre": "Interface de audio Behringer - 178",
+    "precio": 75000,
+    "foto": "../media/products/Interface de audio Behringer - 178.jpg"
+}, {
+    "id": 7,
+    "tipo": "Monitores de estudio",
+    "nombre": "Apogee Studio 4 - 35",
+    "precio": 35000,
+    "foto": "../media/products/Apogee Studio 4 - 35.jpg"
+}, {
+    "id": 8,
+    "tipo": "Monitores de estudio",
+    "nombre": "Presonus Eris E3.5 - 69",
+    "precio": 69000,
+    "foto": "../media/products/Presonus Eris E3.5 - 69.jpg"
+},
+{
+    "id": 9,
+    "tipo": "Monitores de estudio",
+    "nombre": "Monitores Krk Classic - 118",
+    "precio": 90000,
+    "foto": "../media/products/Monitores Krk Classic - 118.jpg"
+},
+{
+    "id": 10,
+    "tipo": "Auriculares ",
+    "nombre": "Auriculares AKG K52 - 14",
+    "precio": 14000,
+    "foto": "../media/products/Auriculares AKG K52 - 14.jpg"
+}, {
+    "id": 11,
+    "tipo": "Auriculares ",
+    "nombre": "Auriculares Audio-Technica - 16",
+    "precio": 16000,
+    "foto": "../media/products/Auriculares Audio-Technica - 16.jpg"
+}, {
+    "id": 12,
+    "tipo": "Auriculares ",
+    "nombre": "Auriculares Audio-Technica - 36",
+    "precio": 36000,
+    "foto": "../media/products/Auriculares Audio-Technica - 36.jpg"
+}, {
+    "id": 13,
+    "tipo": "Instrumentos",
+    "nombre": "Teclado Midi Arturia Keylab - 72",
+    "precio": 36000,
+    "foto": "../media/products/Teclado Midi Arturia Keylab - 72.jpg"
+}, {
+    "id": 14,
+    "tipo": "Instrumentos",
+    "nombre": "Guitarra Acústica - 68",
+    "precio": 68000,
+    "foto": "../media/products/Guitarra Acústica - 68.jpg"
+}, {
+    "id": 15,
+    "tipo": "Instrumentos",
+    "nombre": "Controlador Dj Pioneer-130000",
+    "precio": 130000,
+    "foto": "../media/products/Controlador Dj Pioneer-130000.jpg"
+}, {
+    "id": 16,
+    "tipo": "Varios",
+    "nombre": "Software Pro Tools-213",
+    "precio": 213000,
+    "foto": "../media/products/Software Pro Tools-213.jpg"
+}, {
+    "id": 17,
+    "tipo": "Varios",
+    "nombre": "Cable Xlr (cannon) - 2",
+    "precio": 2900,
+    "foto": "../media/products/Cable Xlr (cannon) - 2.jpg"
+}, {
+    "id": 18,
+    "tipo": "Varios",
+    "nombre": "Paneles Acústicos - 5",
+    "precio": 5000,
+    "foto": "../media/products/Paneles Acústicos - 5.jpg"
+}
+]
